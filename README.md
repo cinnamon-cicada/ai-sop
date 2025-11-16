@@ -2,6 +2,10 @@
 
 A Vision Transformer (ViT) based deep learning model for classifying construction site activities from images.
 
+Imagine you’re onsite, laying foundations for a house. What if you did not have to walk ten seconds across the site to fetch your blueprint—for the twentieth time? That’s what we hope to use spatial intelligence for: smart glasses that read you the exact SOP you need.
+
+Streamed input from the glasses is sent to a server, where ML-based processing happens. The correct SOP is sent back to the glasses, allowing instant, easy access to instructions on the field. 
+
 ## Overview
 
 This project uses a fine-tuned Vision Transformer to identify different construction tasks:

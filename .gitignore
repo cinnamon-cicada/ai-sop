@@ -1,0 +1,20 @@
+# Ignore standard files
+.env
+output/*
+env/*
+
+# Ignore model
+best_construction_model.pth
+
+# Ignore dataset folders
+construction_dataset/train/installing_led_lights/*
+construction_dataset/train/installing_windows/*
+construction_dataset/train/fixing_sink_plumbing/*
+construction_dataset/train/laying_bricks/*
+construction_dataset/train/pouring_concrete/*
+
+construction_dataset/val/installing_led_lights/*
+construction_dataset/val/installing_windows/*
+construction_dataset/val/fixing_sink_plumbing/*
+construction_dataset/val/laying_bricks/*
+construction_dataset/val/pouring_concrete/*

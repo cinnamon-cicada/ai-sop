@@ -2,6 +2,7 @@
 .env
 output/*
 env/*
+__pycache__/*
 
 # Ignore model
 best_construction_model.pth
